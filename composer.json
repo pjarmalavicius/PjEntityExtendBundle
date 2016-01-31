@@ -1,7 +1,7 @@
 {
   "name": "pjarmalavicius/entity-extend-bundle",
   "type": "symfony-bundle",
-  "description": "Ease doctrine entities extending",
+  "description": "Easy doctrine entities extending",
   "keywords": ["doctrine extend mapping"],
   "homepage": "https://github.com/pjarmalavicius/PjEntityExtendBundle",
   "license": "MIT",
