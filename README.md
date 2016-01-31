@@ -146,8 +146,8 @@ class Product extends BaseProduct
 ## yml mapping
 If you are using yml mapping, you need to add extended_entity property to CustomProduct.yml:
 ```
-Custom\ProductBundle\Entity\Product:
-    extended_entity: Acme\ProductBundle\Entity\CustomProduct
+Custom\ProductBundle\Entity\CustomProduct:
+    extended_entity: Acme\ProductBundle\Entity\BaseProduct
     type: entity
     fields:
         description:
