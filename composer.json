@@ -1,5 +1,5 @@
 {
-  "name": "pjarmalavicius/entity-extend",
+  "name": "pjarmalavicius/entity-extend-bundle",
   "type": "symfony-bundle",
   "description": "Ease doctrine entities extending",
   "keywords": ["doctrine extend mapping"],
