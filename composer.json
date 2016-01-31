@@ -11,11 +11,6 @@
       "email": "paulius.jarmalavicius@gmail.com"
     }
   ],
-  "extra": {
-    "branch-alias": {
-      "dev-master": "master"
-    }
-  },
   "require": {
     "php": "~5.4",
     "symfony/framework-bundle": "~2.3|~3.0",
