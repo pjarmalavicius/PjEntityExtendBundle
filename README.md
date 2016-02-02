@@ -121,7 +121,7 @@ class CustomProduct extends BaseProduct
     }
 }
 ```
-Now doctrine will think that CustomProduct is new entity with it's own DB table and this is problem, because we want that CustomProduct would be same product entity and would use same DB table. With PjEntityExtend bundle you can solve this problem. First of all you need to add extended entities list to your config.yml:
+but now doctrine will think that CustomProduct is new entity with it's own DB table and this is problem, because we want that CustomProduct would be same product entity and would use same DB table. With PjEntityExtendBundle you can solve this problem. First of all you need to add extended entities list to your config.yml:
 ```
 pj_entity_extend:
     extended_entities:
